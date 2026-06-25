@@ -1,4 +1,4 @@
-# 👔 Enrico Cerrini — Kiyim Do'koni Boshqaruvi Tizimi
+# 👔 Enrico Cerini — Kiyim Do'koni Boshqaruvi Tizimi
 
 [![React](https://img.shields.io/badge/React-18.2-blue?logo=react&style=for-the-badge)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.2-purple?logo=vite&style=for-the-badge)](https://vitejs.dev/)
